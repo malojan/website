@@ -1,0 +1,25 @@
+dataset1:
+  title: "Les élections européennes 2024 en France (ELIPSS 2024)"
+  year: 2024
+  description: "Survey data on the 2024 EU elections in France."
+  link: "https://data.sciencespo.fr/dataset.xhtml?persistentId=doi:10.21410/7E4/TTMWTD"
+  doi: "https://doi.org/10.21410/7E4/TTMWTD"  # DOI added
+  citation: "Persico, Simon; Gougou, Florent; Grossman, Emiliano; Jan, Malo, 2024, 'Les élections européennes 2024 en France (ELIPSS)', https://doi.org/10.21410/7E4/TTMWTD, data.sciencespo, V1."
+
+dataset2:
+  title: "Base de données comparatives des enquêtes électorales françaises (1958-2017)"
+  year: 2022
+  description: "Harmonization project led by the CDSP at SciencesPo to compare French electoral surveys from 1958 to 2017"
+  link: "https://data.sciencespo.fr/dataset.xhtml?persistentId=doi:10.21410/7E4/TSQKNX"
+  doi: "https://doi.org/10.21410/7E4/TSQKNX"  # DOI added
+  citation: "JAN, Malo; MARIE, Lucie; SAUGER, Nicolas, 2023, 'Base de données comparatives des enquêtes électorales françaises (1958-2017)', https://doi.org/10.21410/7E4/TSQKNX, data.sciencespo, V3"
+
+bee0:
+  title: "Baromètre Ecologie Environnement 2023"
+  year: 2024
+  description: "Survey Data project on environmental attitudes and behaviors."
+  link: "https://data.sciencespo.fr/dataset.xhtml?persistentId=doi:10.21410/7E4/OH0RKI"
+  doi: "https://doi.org/10.21410/7E4/OH0RKI"  # DOI added
+  citation: "Éric Pautard; Nicolas Sauger; Luc Rouban; Maël Ginsburger; Emiliano Grossman; Malo Jan; Luis Sattelmayer; Théodore Tallent; Lucien Thabourey; Simon Audebert, 2024, 'Baromètre Écologie Environnement (ELIPSS 2023)', https://doi.org/10.21410/7E4/OH0RKI, data.sciencespo, V2"
+  
+  

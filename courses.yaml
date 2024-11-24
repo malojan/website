@@ -1,0 +1,77 @@
+intro_css:
+  title: "Computational Social Sciences"
+  semester: "Spring"
+  institution: "SciencesPo Paris"
+  year: 2025
+  syllabus: "documents/css_syllabus.pdf"
+#  materials: "https://link-to-materials.com"
+  language: "French"
+  hours: 24
+  level: "Master + Phd"
+  description: "This course is an introduction to computational social sciences covering web scraping, how to convert texts into numbers, supervised and unsupervised machine learning as well as an introduction to large language models."
+  
+intro_quant2:
+  title: "Introduction to quantitative methods"
+  semester: "Spring"
+  institution: "SciencesPo Paris"
+  year: 2024
+  language: "English"
+#  syllabus: "documents/intro_stat_syllabus.pdf"
+  hours: 2 x 12 (24)
+  level: "Master"
+  description: "This course is an introduction to programming with R Studio for research master's students in political science, complementing the lecture taught by Jan Rovny."
+
+ta_eco:
+  title: "Ecological Literacy (Teaching assistant)"
+  semester: "Spring"
+  institution: "SciencesPo Paris"
+  year: 2023
+  language: "French/English"  # Language of the class
+  hours: 16  # Number of hours per week
+  level: "Bachelor"  # Level of the course
+  description: ""
+
+intro_quant:
+  title: "Introduction to quantitative methods"
+  semester: "Spring"
+  institution: "SciencesPo Paris"
+  year: 2023
+  language: "French/English"
+#  syllabus: "documents/intro_stat_syllabus.pdf"
+  hours: 3 x 12 (36)
+  level: "Master"
+  description: "This course is an introduction to programming with R Studio for research master's students in political science, complementing the lecture taught by Jan Rovny."
+
+comp_pol: 
+  title: "Politique comparée"
+  semester: "Fall"
+  institution: "SciencesPo Paris"
+  year: 2023
+#  syllabus: "documents/comp_pol_syllabus.pdf"
+  language: "French"
+  hours: 24
+  level: "Bachelor"
+  description: "This course is a seminar (TD) designed to help students discuss important concepts and methods in comparative politics and assist them in designing a research note using comparison."
+  
+intro_polsci:
+  title: "Introduction à la science politique"
+  semester: "Spring"
+  institution: "SciencesPo Paris, campus de Poitiers"
+  year: 2023
+  syllabus: "documents/ISP_syllabus.pdf"
+  language: "French"  # Language of the class
+  hours: 24  # Number of hours per week
+  level: "Bachelor"  # Level of the course
+  description: "This course is a seminar (TD) designed to introduce first-year students to the main concepts, authors, and subfields in political science"
+
+ta_comp_pol:
+  title: "Comparative Politics (Teaching assistant)"
+  semester: "Fall"
+  institution: "SciencesPo Paris"
+  year: 2022
+  language: "English"  # Language of the class
+  hours: 16  # Number of hours per week
+  level: "Master"  # Level of the course
+  description: ""
+
+
