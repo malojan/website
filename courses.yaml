@@ -16,7 +16,8 @@ intro_quant2:
   institution: "SciencesPo Paris"
   year: 2024
   language: "English"
-#  syllabus: "documents/intro_stat_syllabus.pdf"
+# syllabus: "documents/intro_stat_syllabus.pdf"
+  materials: "https://malojan.github.io/2024_intro_r/"
   hours: 2 x 12 (24)
   level: "Master"
   description: "This course is an introduction to programming with R Studio for research master's students in political science, complementing the lecture taught by Jan Rovny."
@@ -37,6 +38,7 @@ intro_quant:
   institution: "SciencesPo Paris"
   year: 2023
   language: "French/English"
+  materials: "https://malo-jn.quarto.pub/introduction-to-r/"
 #  syllabus: "documents/intro_stat_syllabus.pdf"
   hours: 3 x 12 (36)
   level: "Master"
@@ -47,7 +49,7 @@ comp_pol:
   semester: "Fall"
   institution: "SciencesPo Paris"
   year: 2023
-#  syllabus: "documents/comp_pol_syllabus.pdf"
+  syllabus: "documents/2O23_polcomp_syllabus.pdf"
   language: "French"
   hours: 24
   level: "Bachelor"
@@ -58,7 +60,7 @@ intro_polsci:
   semester: "Spring"
   institution: "SciencesPo Paris, campus de Poitiers"
   year: 2023
-  syllabus: "documents/ISP_syllabus.pdf"
+  syllabus: "documents/2023_isp_syllabus.pdf"
   language: "French"  # Language of the class
   hours: 24  # Number of hours per week
   level: "Bachelor"  # Level of the course
