@@ -1,15 +1,16 @@
 ---
 title: "Malo Jan"
-image: photo_malo.jpeg
+image: photo_malo2.jpeg
 toc: false
 about: 
   template: solana # see other templates at https://quarto.org/docs/websites/website-about.html#templates
   image-shape: round
-  image-width: 10em
+  image-width: 14em
 
 ---
-        
-I am Malo Jan, a Ph.D. candidate in Political Science at the [Center for European Studies and Comparative Politics](https://www.sciencespo.fr/centre-etudes-europeennes/en/) at Sciences Po Paris, under the supervision of Emiliano Grossman. I hold a research master's degree in Political Science from Sciences Po Paris, where I wrote my master's thesis on French MPs' responses to climate change. From January 2024 to June 2024, I will be a visiting researcher at the Department of Politics and International Relations at the University of Oxford.
+<meta name="google-site-verification" content="nT0SX1PlQLGWz-Q1XWn1nyNICGJGAFfllGEKpKLMyow" />
+
+I am Malo Jan, a Ph.D. candidate in Political Science at the [Center for European Studies and Comparative Politics](https://www.sciencespo.fr/centre-etudes-europeennes/en/) at Sciences Po Paris, under the supervision of Emiliano Grossman. I hold a research master's degree in Political Science from Sciences Po Paris, where I wrote my master's thesis on French MPs' responses to climate change. 
 
 My primary research interests lie in political elites and climate politics. My dissertation focuses on political polarization around climate change in Western Europe. Specifically, I look at how opposition discourses to climate policies influence party competition on climate change, citizens' attitudes, and electoral behavior.
 

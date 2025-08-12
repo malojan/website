@@ -1,7 +1,8 @@
 project:
   type: website
   output-dir: docs
-
+  resources:
+    - "*.html"
 
 website:
   title: "Malo Jan"
@@ -15,8 +16,8 @@ website:
         text: Teaching
       - href: data.qmd
         text: Data
-      - href: documents/CV_Malo_Jan.pdf
-#        text: CV
+      #- href: documents/CV_Malo_Jan.pdf
+        #text: CV
 
 # On the right, add twitter, github, linkedin and email
     right:
@@ -28,11 +29,13 @@ website:
       href: malo.jan@sciencespo.fr
     - icon: linkedin
       href: https://www.linkedin.com/in/malo-jan-3021a913a
+    - text: "{{< fa brands bluesky >}}"
+      href: https://bsky.app/profile/malojan.bsky.social
+
 format:
   html:
     theme: simplex
     css: styles.css
     toc: true
-
 
 

@@ -1,15 +1,29 @@
-intro_css:
+
+intro_css2:
   title: "Computational Social Sciences"
-  semester: "Spring"
+  semester: "Summer"
   institution: "SciencesPo Paris"
   year: 2025
   syllabus: "documents/css_syllabus.pdf"
-#  materials: "https://link-to-materials.com"
+  materials: "https://github.com/luissattelmayer/intro-css"
   language: "French"
-  hours: 24
+  hours: 24 
   level: "Master + Phd"
   description: "This course is an introduction to computational social sciences covering web scraping, how to convert texts into numbers, supervised and unsupervised machine learning as well as an introduction to large language models."
-  
+
+intro_css:
+  title: "Computational Social Sciences"
+  semester: "Winter"
+  institution: "SciencesPo Paris"
+  year: 2025
+  syllabus: "documents/css_syllabus.pdf"
+  materials: "https://github.com/luissattelmayer/intro-css"
+  language: "French"
+  hours: 24 
+  level: "Master + Phd"
+  description: "This course is an introduction to computational social sciences covering web scraping, how to convert texts into numbers, supervised and unsupervised machine learning as well as an introduction to large language models."
+
+
 intro_quant2:
   title: "Introduction to quantitative methods"
   semester: "Spring"
@@ -39,7 +53,7 @@ intro_quant:
   year: 2023
   language: "French/English"
   materials: "https://malo-jn.quarto.pub/introduction-to-r/"
-#  syllabus: "documents/intro_stat_syllabus.pdf"
+  #syllabus: "documents/intro_stat_syllabus.pdf"
   hours: 3 x 12 (36)
   level: "Master"
   description: "This course is an introduction to programming with R Studio for research master's students in political science, complementing the lecture taught by Jan Rovny."

@@ -7,6 +7,8 @@ keep-md: true
 format: html
 ---
 
+## Published papers
+
 ```{python}
 import yaml
 from IPython.display import display, Markdown, HTML
@@ -43,6 +45,10 @@ for _, data in yaml_data.items():
     github = data.get("github")
     if github is not None:
         buttons.append(button(github, "Github", "bi-github"))
+    hf = data.get("hf")
+    if hf is not None:
+        buttons.append(button(hf, "Hugging Face model", "bi-hugging-face"))        
+
 
     pub_url = data.get("published_url")
     venue = data.get("venue")
@@ -62,10 +68,11 @@ for _, data in yaml_data.items():
     else:
         if year_str not in pub_strs["pubs"]:
             pub_strs["pubs"][year_str] = []
-        buttons.append(button(pub_url, "Published", "ai-archive"))
+        buttons.append(button(pub_url, "Published paper", "ai-archive"))
         pub_strs["pubs"][year_str].append(
             "<li class='list-group-item'>" + pub_str + "<br>" + " ".join(buttons) + "</li>"
         )
+
 ```
 
 ```{python}
@@ -79,7 +86,7 @@ for year in sorted(pub_strs["pubs"].keys(), reverse=True):
     ))
 ```
 
-## Working Papers 
+## Working Papers and work in progress
 
 ```{python}
 #| label: "not-published-year"

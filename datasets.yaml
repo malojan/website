@@ -21,5 +21,14 @@ bee0:
   link: "https://data.sciencespo.fr/dataset.xhtml?persistentId=doi:10.21410/7E4/OH0RKI"
   doi: "https://doi.org/10.21410/7E4/OH0RKI"  # DOI added
   citation: "Éric Pautard; Nicolas Sauger; Luc Rouban; Maël Ginsburger; Emiliano Grossman; Malo Jan; Luis Sattelmayer; Théodore Tallent; Lucien Thabourey; Simon Audebert, 2024, 'Baromètre Écologie Environnement (ELIPSS 2023)', https://doi.org/10.21410/7E4/OH0RKI, data.sciencespo, V2"
-  
+
+bee1:
+  title: "Baromètre Ecologie Environnement 2024"
+  year: 2025
+  description: "Survey Data project on environmental attitudes and behaviors."
+  link: "https://doi.org/10.21410/7E4/2NWBPE"
+  doi: "https://doi.org/10.21410/7E4/2NWBPE"  # DOI added
+  citation: "Éric Pautard; Nicolas Sauger; Luc Rouban; Maël Ginsburger; Emiliano Grossman; Malo Jan; Luis Sattelmayer; Théodore Tallent; Lucien Thabourey; Simon Audebert, 2025, 'Baromètre Écologie Environnement (ELIPSS 2024)', https://doi.org/10.21410/7E4/OH0RKI, data.sciencespo, V2"
+
+
   
