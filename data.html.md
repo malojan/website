@@ -11,6 +11,15 @@ format: html
 
 
 ::: {#published-year .cell execution_count=2}
+### 2025
+
+```{=html}
+<ul class='list-group list-group-flush'><li class='list-group-item'><strong>Baromètre Ecologie Environnement 2024</strong> (2025)<br><strong>DOI:</strong> <a href='https://doi.org/https://doi.org/10.21410/7E4/2NWBPE' target='_blank'>https://doi.org/10.21410/7E4/2NWBPE</a><br><strong>Description:</strong><br>Survey Data project on environmental attitudes and behaviors.<br><strong>Citation:</strong><br>Éric Pautard; Nicolas Sauger; Luc Rouban; Maël Ginsburger; Emiliano Grossman; Malo Jan; Luis Sattelmayer; Théodore Tallent; Lucien Thabourey; Simon Audebert, 2025, 'Baromètre Écologie Environnement (ELIPSS 2024)', https://doi.org/10.21410/7E4/OH0RKI, data.sciencespo, V2<br><a class="btn btn-outline-dark btn-sm", href="https://doi.org/10.21410/7E4/2NWBPE" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-download" role='img' aria-label='Download Dataset'></i>
+        Download Dataset
+    </a></li></ul>
+```
+
 ### 2024
 
 ```{=html}

@@ -9,8 +9,6 @@ format: html
 
 
 
-
-
 Over the past few years, I have taught a variety of courses at Sciences Po Paris, both substantive and methodological, for bachelor’s, master’s, and PhD students in political science, in both French and English. 
 
 
@@ -19,9 +17,19 @@ Over the past few years, I have taught a variety of courses at Sciences Po Paris
 ### 2025{#teaching-2025}
 
 ```{=html}
-<ul class='list-group list-group-flush'><li class='list-group-item'><strong>Computational Social Sciences</strong> (Spring 2025) at <em>SciencesPo Paris</em><br><strong>Language:</strong> French | <strong>Hours:</strong> 24 | <strong>Level:</strong> Master + Phd<br><strong>Description:</strong><br>This course is an introduction to computational social sciences covering web scraping, how to convert texts into numbers, supervised and unsupervised machine learning as well as an introduction to large language models.<br><a class="btn btn-outline-dark btn-sm", href="documents/css_syllabus.pdf" target="_blank" rel="noopener noreferrer">
+<ul class='list-group list-group-flush'><li class='list-group-item'><strong>Computational Social Sciences</strong> (Summer 2025) at <em>SciencesPo Paris</em><br><strong>Language:</strong> French | <strong>Hours:</strong> 24 | <strong>Level:</strong> Master + Phd<br><strong>Description:</strong><br>This course is an introduction to computational social sciences covering web scraping, how to convert texts into numbers, supervised and unsupervised machine learning as well as an introduction to large language models.<br><a class="btn btn-outline-dark btn-sm", href="documents/css_syllabus.pdf" target="_blank" rel="noopener noreferrer">
         <i class="bi bi-book" role='img' aria-label='Syllabus'></i>
         Syllabus
+    </a> <a class="btn btn-outline-dark btn-sm", href="https://github.com/luissattelmayer/intro-css" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-text" role='img' aria-label='Course Materials'></i>
+        Course Materials
+    </a></li>
+<li class='list-group-item'><strong>Computational Social Sciences</strong> (Winter 2025) at <em>SciencesPo Paris</em><br><strong>Language:</strong> French | <strong>Hours:</strong> 24 | <strong>Level:</strong> Master + Phd<br><strong>Description:</strong><br>This course is an introduction to computational social sciences covering web scraping, how to convert texts into numbers, supervised and unsupervised machine learning as well as an introduction to large language models.<br><a class="btn btn-outline-dark btn-sm", href="documents/css_syllabus.pdf" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-book" role='img' aria-label='Syllabus'></i>
+        Syllabus
+    </a> <a class="btn btn-outline-dark btn-sm", href="https://github.com/luissattelmayer/intro-css" target="_blank" rel="noopener noreferrer">
+        <i class="bi bi-file-earmark-text" role='img' aria-label='Course Materials'></i>
+        Course Materials
     </a></li></ul>
 ```
 
