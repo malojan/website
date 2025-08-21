@@ -35,6 +35,7 @@ executive:
     - Emiliano Grossman
     - Malo Jan
   year: 2025
+  github: https://github.com/malojan/executive_climate_change_attention
   hf: https://huggingface.co/mljn/unga-climate-classifier
   venue: Global Environmental Politics
   published_url: https://doi.org/10.1162/glep.a.1

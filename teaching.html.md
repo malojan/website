@@ -9,6 +9,8 @@ format: html
 
 
 
+
+
 Over the past few years, I have taught a variety of courses at Sciences Po Paris, both substantive and methodological, for bachelor’s, master’s, and PhD students in political science, in both French and English. 
 
 
